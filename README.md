@@ -12,4 +12,5 @@ RSS Feed → Google Gemini AI → Telegram Bot
 - Telegram Bot API
 
 ## Screenshot
-![Workflow Screenshot](./Bildschirmfoto_2026-03-16_um_00_06_45.png)
+![Workflow Screenshot](./Workflow)
+![Workflow Screenshot](./NewsTelegram)
