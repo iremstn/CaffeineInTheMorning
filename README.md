@@ -1,6 +1,6 @@
 # 🤖 Caffeine In The Morning – AI News Telegram Bot
 
-Ein automatisierter Workflow der täglich aktuelle AI-News 
+Ein automatisierter Workflow der täglich aktuelle AI-News aus zwei Ländern
 holt, mit Google Gemini zusammenfasst und per Telegram schickt.
 
 ## Wie es funktioniert
@@ -12,5 +12,5 @@ RSS Feed → Google Gemini AI → Telegram Bot
 - Telegram Bot API
 
 ## Screenshot
-![Workflow Screenshot](./Workflow)
+![Workflow Screenshot](./Workflow.png)
 ![Workflow Screenshot](./WorkflowTelegram.png)
