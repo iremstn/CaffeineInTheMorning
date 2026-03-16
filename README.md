@@ -13,4 +13,4 @@ RSS Feed → Google Gemini AI → Telegram Bot
 
 ## Screenshot
 ![Workflow Screenshot](./Workflow)
-![Workflow Screenshot](./NewsTelegram)
+![Workflow Screenshot](./WorkflowTelegram)
