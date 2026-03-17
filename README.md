@@ -2,7 +2,8 @@
 
 Ein automatisierter Workflow der täglich aktuelle AI-News aus zwei Ländern
 holt, das aktuelle Wetter anzeigt, mit Google Gemini zusammenfasst und per Telegram schickt.
-t.me/CaffeineNewsBot
+
+https://t.me/CaffeineNewsBot
 
 ## Wie es funktioniert
 RSS Feed → Google Gemini AI → Telegram Bot
